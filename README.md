@@ -1,4 +1,4 @@
-# Summary
+# Quick Showcase
 Some of my most recent work on p5.js:
 
 ![flow field following mouse pointer](assets/ffmf.gif)
