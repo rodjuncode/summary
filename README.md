@@ -1,7 +1,7 @@
 # Summary
 Here are some of my most recent work on creative coding:
 
-![Daft Pulse](assets/dft.gif)
+![Daft Pulse](assets/dpt.gif)
 
 [[Run](https://rodjuncode.github.io/daft-pulse/)][[Code](https://github.com/rodjuncode/daft-pulse)]
 
