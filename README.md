@@ -1,5 +1,5 @@
-# Some of my most recent work on p5.js:
-
+# Summary
+Some of my most recent work on p5.js:
 
 ![flow field following mouse pointer](assets/ffmf.gif)
 
@@ -10,6 +10,12 @@
 ![Maestro POC](assets/tism.gif)
 
 [[Run](https://github.com/rodjuncode/maestro/)][[Code](https://rodjuncode.github.io/maestro/)]
+
+***
+
+![Arts & Crafts Exhibition Poster](assets/anc.gif)
+
+[[Run](https://rodjuncode.github.io/arts-n-crafts/)][[Code](https://github.com/rodjuncode/arts-n-crafts/)]
 
 ***
 
