@@ -18,3 +18,9 @@ Here are some of my most recent work on creative coding:
 [[Run](https://github.com/rodjuncode/maestro/)][[Code](https://rodjuncode.github.io/maestro/)]
 
 ***
+
+![Post Generator](assets/mpg.gif)
+
+[[Run](https://rodjuncode.github.io/moebius-post-generator/)][[Code](https://github.com/rodjuncode/moebius-post-generator)]
+
+***
