@@ -1,9 +1,9 @@
 # Summary
 Here are some of my most recent work on creative coding:
 
-![Daft Pulse](assets/dpt.gif)
+![Maestro POC](assets/tism.gif)
 
-[[Run](https://rodjuncode.github.io/daft-pulse/)][[Code](https://github.com/rodjuncode/daft-pulse)]
+[[Run](https://github.com/rodjuncode/maestro/)][[Code](https://rodjuncode.github.io/maestro/)]
 
 ***
 
@@ -19,14 +19,14 @@ Here are some of my most recent work on creative coding:
 
 ***
 
-![Maestro POC](assets/tism.gif)
-
-[[Run](https://github.com/rodjuncode/maestro/)][[Code](https://rodjuncode.github.io/maestro/)]
-
-***
-
 ![Post Generator](assets/mpg.gif)
 
 [[Run](https://rodjuncode.github.io/moebius-post-generator/)][[Code](https://github.com/rodjuncode/moebius-post-generator)]
+
+***
+
+![Daft Pulse](assets/dpt.gif)
+
+[[Run](https://rodjuncode.github.io/daft-pulse/)][[Code](https://github.com/rodjuncode/daft-pulse)]
 
 ***
