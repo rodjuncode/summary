@@ -7,8 +7,14 @@ Here are some of my most recent work on creative coding:
 
 ***
 
-![flow field following mouse pointer](assets/rs1100.gif)
+![100 formas de contar de 1 a 100](assets/rs1100.gif)
 
 [[Run](https://rodjuncode.github.io/100-formas-de-contar-de-1-a-100/)][[Code](https://github.com/rodjuncode/100-formas-de-contar-de-1-a-100/)]
+
+***
+
+![Maestro POC](assets/tism.gif)
+
+[[Run](https://github.com/rodjuncode/maestro/)][[Code](https://rodjuncode.github.io/maestro/)]
 
 ***
