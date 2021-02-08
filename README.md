@@ -7,7 +7,7 @@ Here are some of my most recent work on creative coding:
 
 ***
 
-![flow field following mouse pointer](assets/rw1100.gif)
+![flow field following mouse pointer](assets/rs1100.gif)
 
 [[Run](https://rodjuncode.github.io/100-formas-de-contar-de-1-a-100/)][[Code](https://github.com/rodjuncode/100-formas-de-contar-de-1-a-100/)]
 
