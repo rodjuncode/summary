@@ -1,7 +1,7 @@
 # Summary
 Here are some of my most recent work on creative coding:
 
-![flow field following mouse pointer](assets/ffm.gif)
+![flow field following mouse pointer](assets/ffmf.gif)
 
 [[Run](https://rodjuncode.github.io/flow-field-following-mouse/)][[Code](https://github.com/rodjuncode/flow-field-following-mouse)]
 
